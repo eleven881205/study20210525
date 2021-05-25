@@ -6,7 +6,8 @@ import java.util.Arrays;
  */
 public class Hello {
     public String getId(){
-        return "";
+        String aa="day day up up";
+        return aa;
     }
 
     public static void main(String[] args) {
